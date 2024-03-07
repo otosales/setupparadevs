@@ -1,0 +1,9 @@
+Git init - Iniciar o ciclo de vida dos arquivos para o repositório
+git status -> verifica o status do repositório
+Git add . -> Adiciona alterações (arquivos criados, alterados ou excluidos)
+Git commit -m "mensagem" -> descrição das alterações realizadas.
+git log -> visualiza os commits realizados
+git push -> envia os commits para o Github
+git pull -> busca os commits que ja foram feitos no Github
+git clone -> baixa um repositório do Github para o computador
+git remote add origin -> vincula o projeto local (desenvolvido no computador) com um repositório do Github
